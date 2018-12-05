@@ -1,1 +1,1 @@
-# Sportee
+Sportee is an e-commerce website for Purchase of sports gear and equipments. It provides the user with a catalog of different sports gears and equipments available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user.
